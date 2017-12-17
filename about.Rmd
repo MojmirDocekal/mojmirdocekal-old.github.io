@@ -1,0 +1,5 @@
+---
+title: "About This Website"
+---
+
+I made this site for two main reasons: (i) put on web my articles, presentations, class-related material, etc.; (ii) to learn version control with GitHub and up-to-date web technologies.
